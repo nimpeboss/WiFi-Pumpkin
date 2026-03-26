@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """WiFi-Pumpkin-NG Main CLI Interface"""
 import sys
 import argparse
